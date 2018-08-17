@@ -1,0 +1,14 @@
+Package: iOSGods.com.LastDayonEarth
+Version: 1.9.4
+Section: Tweaks
+Maintainer: DiDA <eliteiiiskillz.shop@hotmail.com>
+Depends: firmware (11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/iOSGods.com.LastDayonEarth_1.9.4_iphoneos-arm (2).deb
+Size: 1834880
+MD5sum: 6bd399b7223bb96f023f0d0f3ee9ad83
+Description: iosgod
+Name: Last Day on Earth
+Author: ELiTEiiiSkillz <eliteiiiskillz.shop@hotmail.com>
+Depiction: https://eliteiiiskillz.github.io/eliteiiiskillz/depictions/?p=iOSGods.com.LastDayonEarth
+

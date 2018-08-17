@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/eliteiiiskillz</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>eliteiiiskillz game</name>
+			<url>https://github.com/eliteiiiskillz/</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>

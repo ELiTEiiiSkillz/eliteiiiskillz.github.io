@@ -1,0 +1,23 @@
+<package>
+	<id>iOSGods.com.LastDayonEarth</id>
+	<name>LastDayonEarth</name>
+	<version>1.9.4</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This is an old package. Requires iOS 11 and later..</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
