@@ -1,14 +1,54 @@
 Package: iOSGods.com.LastDayonEarth
-Version: 1.9.4
+Version: 1.9.5
 Section: Tweaks
 Maintainer: DiDA <eliteiiiskillz.shop@hotmail.com>
 Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/iOSGods.com.LastDayonEarth_1.9.4_iphoneos-arm (2).deb
-Size: 1834880
-MD5sum: 6bd399b7223bb96f023f0d0f3ee9ad83
-Description: iosgod
-Name: Last Day on Earth
+Filename: ./debs/iOSGods.com.LastDayonEarth_1.9.5_iphoneos-arm.deb
+Size: 1834868
+MD5sum: 9d9d7e7ebea1f0f227d0daea55fd3119
+Description: Hack Features:
+- Unlimited Coins -> Buy something with coins that you can afford to increase them. If you have no coins, see this topic.
+- Anti-Cheat -> Disable Cheat detection.
+- Item Duplication -> Split an Item to get x20/double more.
+- Free Crafting -> Craft without required items. Do not craft unreleased items or your game will stop loading! See the Club to find out which ones you shouldn't craft.
+- Free Building -> Build without required items.
+- Free Upgrading -> Upgrade without required items.
+- Building hack -> Thanks to the features above
+- Infinite Weapon/Item Durability
+- Infinite All Armor Durability 
+- Unlimited Skill Points -> Use skill points to increase them.
+- Unlimited Energy -> Energy Always increases instead of subtracting.
+- Unlock All Items -> All blueprints unlocked!
+- No Level Requirement for Crafting
+- Increase Player Speed x1 -> Run/Walk Fast
+- Increase Player Speed x2 -> Run/Walk Faster
+- Increase Player Speed x3 -> Run/Walk out of control!
+- Loot Boxes Hack! -> Open 1 loot box and gain 10,000! If IAP/Free Store is patched, use this to gain a lot of loot boxes when opening one.
+- Item Increase Hack -> When taking an item from your inbox, it will take it and still keep it in your inbox. If you have a lot of the same item, you can increase said item as much as you want!
+- Bow One Hit Kill -> One Hit Kill enemies with your bow. WORKS on killing The Big One & Witch!
+- Bow Instant Charge for Shot -> Tap on the shoot icon to instantly shoot your bow without having to charge it.
+- XP Hack -> Instant Level 99 when picking up a rock. Unlocks all blueprints too.
+- Instant Travel Time -> No need to wait for travelling.
+- High Rate of Fire -> One Hit Kill Zombies. Seems to work best on Shotguns.
+- Unlimited Consumable Items -> Food, Apples, Water, etc will not decrease when using!
+- God Mode / Never Die -> Never die to Zombies, Animals & Other Players! In order for this to work, equip a helmet, vest and trousers. DO NOT EQUIP SHOES WHILE THIS FEATURE IS ENABLED!
+- No Hunger
+- No Thirst
+- Unlimited Weapon Blueprints - Using the Recycler / Weapon Specialist in Bunker Alfa and the Unlimited Consumable Items Hack, you can get every Weapon Blueprints in the game.
+- Easy Finalize -> Finalize Without Materials
+- Instant Tree Chopping
+- Instant Rock Cracking
+- Instantly Destroy Walls!
+- Instantly Unlock Chests. No need to wait for opening chests animation.
+- 1 Second to Travel with Bike (1 fuel)
+- 1 Second to Travel using Energy (costs 2)
+Not working
+- Free Store / Free In-App Purchases! -> Buy in-game Loot Boxes for free! This is automatically active. This feature seems to get patched by the developer most of the time. So if it isn't working for you then it's patched.
+- Minigun Doesn't Overheat*
+- Zombie's Don't Attack -> It's a bit buggy. I think it works best if you enable it, then close the game while feature is on & reopen the game.
+- High Weapon Damage / One Hit Kill -> Linked, use with the feature above or hit enemy first. Enable/Disable via the IGMM. 
+Name: Last Day On Earth: Survival v1.9.5 +36
 Author: ELiTEiiiSkillz <eliteiiiskillz.shop@hotmail.com>
 Depiction: https://eliteiiiskillz.github.io/depictions/?p=iOSGods.com.LastDayonEarth
 
