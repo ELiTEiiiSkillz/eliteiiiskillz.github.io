@@ -1,0 +1,23 @@
+<package>
+	<id>com.DanYal.pixelmon</id>
+	<name>Pixelmon shooting</name>
+	<version>1.3</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.1.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Hack Features: - No Spread - Unlimited Ammo - Unlimited Grenades - Increase Damage - Damage Will Be Random - Unlimited Coins - Unlimited Gems - Anti-Cheat Removed</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Release</change>
+	</changelog>
+	<links></links>
+</package>

@@ -12,3 +12,16 @@ Name: Last Day On Earth: Survival v1.9.6 +36
 Author: ELiTEiiiSkillz <eliteiiiskillz.shop@hotmail.com>
 Depiction: https://eliteiiiskillz.github.io/depictions/?p=iOSGods.com.LastDayonEarth
 
+Package: com.DanYal.pixelmon
+Version: 1.3
+Section: Tweaks
+Maintainer: ELiTEiiiSkillz <eliteiiiskillz.shop@hotmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.DanYal.pixelmon_1.3_iphoneos-arm.deb
+Size: 1836910
+MD5sum: a7eab176c2eb1c8336eb6f8075a6640e
+Description: v1.3
+Name: Pixelmon shooting
+Author: DanYal <eliteiiiskillz.shop@hotmail.com>
+Homepage: https://twitter.com/eliteiiiskillz
+Depiction: 
