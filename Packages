@@ -1,14 +1,14 @@
 Package: iOSGods.com.LastDayonEarth
-Version: 1.9.6 +35
+Version: 1.10
 Section: Tweaks
 Maintainer: DiDA <eliteiiiskillz.shop@hotmail.com>
 Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/iOSGods.com.LastDayonEarth_1.9.6_iphoneos-arm.deb
+Filename: ./debs/iOSGods.com.LastDayonEarth_1.10_iphoneos-arm.deb
 Size: 1834566 
 MD5sum: 5bdfe976e77eb95698e0648d678202f0
 Description: Hack Features:
-Name: Last Day On Earth: Survival v1.9.6 +36
+Name: Last Day On Earth: Survival v1.10
 Author: ELiTEiiiSkillz <eliteiiiskillz.shop@hotmail.com>
 Depiction: https://eliteiiiskillz.github.io/depictions/?p=iOSGods.com.LastDayonEarth
 
