@@ -4,7 +4,7 @@
 	<version>1.10</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>11.1.2</maxiOS>
+			<maxiOS>14.3</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Last Day on Earth: Survival iGMM Cheats by DiDA for iOSGods.com!</description>
+		<description>Last Day on Earth: Survival iGMM Cheats by DiDA / Rook for iOSGods.com!</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
